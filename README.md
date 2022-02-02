@@ -1,4 +1,3 @@
 # chittaBLEapp
 
-
-Android studion complete project to control Blutooth from the app.
+Android studio complete project to control Bluetooth from the app.
